@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-Họ tên / nhóm: Nguyễn Đình Tuấn Anh (MSV: 2A202602735)  Commit: a3f9ce7078c14d183ed1e95d311a2df59bc86855  Điểm tự động (make grade): 84.0 / 88
+Họ tên / nhóm: Nguyễn Đình Tuấn Anh (MSV: 2A202602735)  Commit: 8bb578de02ccd1053d1500e57f2f366de8fc3ee6  Điểm tự động (make grade): 84.0 / 88
 
 > Mọi nhận định phải có số. Dán số từ reports/gameday/*.json, reports/workflows.json, reports/slo.json.
 
